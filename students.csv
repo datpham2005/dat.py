@@ -1,0 +1,11 @@
+student_id, name,class_name,Python,Math,ML
+S001,Nguyen Anh,AI01,85,78,90
+S002,Tran Binh,AI01,72,85,80
+S003,Le Chi,AI01,90,88,95
+S004,Pham Dung,AI02,65,70,68
+S005,Hoang Lan,AI02,82,75,85
+S006,Vo Minh,AI02,78,80,72
+S007,Dang Nam,AI03,95,92,94
+S008,Bui Hoa,AI03,70,68,75
+S009,Doan Khoa,AI03,88,85,82
+S010,Nguyen Mai,AI03,76,90,88
